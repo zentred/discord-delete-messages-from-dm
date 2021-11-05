@@ -25,3 +25,12 @@ how to get theirs or yours dev id:
 
 2 - go back to dms with someone
 right click on their/your username and click 'Copy id'
+
+
+
+
+
+
+
+
+to work this it requires requests, download python 3.7.4 (i have that) and type 'pip install requests' into command prompt
